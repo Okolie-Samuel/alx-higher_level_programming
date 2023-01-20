@@ -1,7 +1,3 @@
-s module needs to be revised
-
-
-
 #!/usr/bin/python3
 
 """Defines unittests for models/rectangle.py.
